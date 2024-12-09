@@ -1,0 +1,63 @@
+artist,album,track_name,track_id,danceability,energy,loudness,speechiness,instrumentalness,liveness
+The Alan Parsons Project,Eye In The Sky (Expanded Edition),Eye In The Sky,39qYD4J4BKvZMQgxfXl5bv,0.823,0.417,-12.643,0.032,0.00098,0.0765
+Billy Preston,The Kids & Me,Nothing From Nothing,72PoJMDfdaw9gGECgA9kTZ,0.808,0.83,-3.995,0.0283,0.0112,0.198
+Looking Glass,Brandy (You're a Fine Girl),Brandy (You're a Fine Girl) - Single Version,0JyCyKN7bG2z4EHN09nciG,0.717,0.885,-5.87,0.0676,5.52e-05,0.407
+Rupert Holmes,Partners In Crime,Escape (The Pina Colada Song),5IMtdHjJ1OtkxbGe4zfUxQ,0.836,0.509,-13.668,0.0548,4.1e-06,0.0436
+Elton John,21 At 33,Little Jeannie,7pgAdesi3gGZO8lAyzOTvu,0.608,0.391,-17.042,0.0284,1.72e-05,0.0891
+Enya,Oceans,China Roses,0UhcVuvIaV7ob8NH6UuKn4,0.4,0.17,-19.464,0.0364,0.701,0.0694
+The Hollies,Distant Light (1999 Remaster),Long Cool Woman (In a Black Dress) - 1999 Remaster,5UwbnHhjnbinJH8TefuQfN,0.757,0.868,-9.326,0.062,0.00221,0.355
+Sarah Geronimo,Just Me Repackaged,You Changed My Life In A Moment,2i8JQscDkUJuGuXasOZG1d,0.334,0.65,-5.195,0.0308,0.0,0.251
+Deep Purple,Deepest Purple (30th Anniversary Edition),Highway Star - 1997 Remix,6exfVMCSwtivlWJyjAnwNP,0.295,0.884,-7.668,0.0531,0.00889,0.197
+Deep Purple,Deepest Purple (30th Anniversary Edition),Smoke On The Water - 1997 Remix,134m3VQMnGMJLQLwsz7Q5A,0.637,0.598,-10.781,0.0282,0.625,0.0639
+Deep Purple,Machine Head,Lazy,0ZAPlh9j5ixbKfaMFMN0be,0.356,0.66,-11.451,0.0632,0.587,0.0934
+Connie Francis,Gold,Al Di Là,60hqsO48PgfLXbr1WD56Nt,0.203,0.391,-8.146,0.032,3.59e-06,0.114
+The Dave Clark Five,All the Hits (2019 - Remaster),Because - 2019 - Remaster,2SFwAObMpqOyeeCjLPxXOT,0.712,0.508,-9.562,0.0343,1.13e-05,0.286
+Various Artists,R&B: From Doo-Wop To Hip-Hop,Me and Mrs. Jones,5GYcaVfaFBHe2gzA6Oybgj,0.416,0.404,-14.133,0.0373,0.000105,0.056
+The Cranberries,To The Faithful Departed,Bosnia,53t72i8icVg5JAjpjZR8mH,0.34,0.439,-8.183,0.0292,7.48e-05,0.3
+George Michael,Ladies And Gentlemen... The Best Of George Michael,Careless Whisper,4jDmJ51x1o9NZB5Nxxc7gY,0.574,0.628,-8.815,0.036,0.0,0.271
+Kool & The Gang,Emergency (Reissue),Cherish,2OY17ER3xSmNXjGsqWzgn7,0.562,0.249,-18.652,0.0253,0.0,0.352
+Cyndi Lauper,She's So Unusual,Time After Time,7o9uu2GDtVDr9nsR7ZRN73,0.726,0.449,-9.206,0.0286,1.34e-06,0.0824
+Rosana,Lunas rotas,El talismán,5NXYUnjruvZd3mXiJNJVeA,0.778,0.573,-5.795,0.0649,0.0,0.284
+The Cranberries,To The Faithful Departed,Electric Blue,2ZlWxTsv7PE6jGmEYB7s2E,0.434,0.535,-7.312,0.0243,0.0023,0.0894
+The Dave Clark Five,Everybody Knows (2019 - Remaster),Everybody Knows - 2019 - Remaster,5xH80PFXAGUdWcCWlWCbqp,0.481,0.523,-10.61,0.0267,0.0,0.151
+Fleetwood Mac,Tango In the Night (Deluxe Edition),Everywhere - 2017 Remaster,254bXAqt3zP6P50BdQvEsq,0.73,0.487,-10.991,0.0303,0.01,0.0852
+Atlantic Starr,All In The Name Of Love,Always,2TQaMcc3BEAF5Srn7FCipl,0.606,0.532,-6.759,0.0256,0.000904,0.356
+Gerry Rafferty,City to City,Baker Street,5gOd6zDC8vhlYjqbQdJVWP,0.497,0.349,-14.0,0.0297,0.028,0.259
+Gerry Rafferty,City to City,Right Down the Line,2Xb6wJYGi0QXwURw5WWvI5,0.783,0.322,-15.091,0.0343,0.00243,0.114
+Gallery,Gallery's Greatest Hits: Original Masters,You're Always on My Mind,6E28JYGPCgq1aRsSZ5haxB,0.45,0.303,-13.598,0.0291,0.00224,0.126
+The Lettermen,The Lettermen Live In The Philippines,Morning Girl,0FFeaprR7BotG9uXjA5nD1,0.315,0.331,-11.352,0.0545,0.0024,0.863
+Fleetwood Mac,Greatest Hits,Gypsy,19Ym5Sg0YyOCa6ao21bdoG,0.622,0.54,-13.99,0.0261,0.00771,0.265
+Heart,Bad Animals,Alone,54b8qPFqYqIndfdxiLApea,0.418,0.452,-13.099,0.0356,0.00026,0.0959
+Eurogliders,This Island,Heaven (Must Be There),0mmshvONujbHTPmbchblbk,0.606,0.527,-15.238,0.0415,0.000419,0.0664
+Richard Marx,Repeat Offender,Right Here Waiting,4LFwNJWoj74Yd71fIr1W8x,0.395,0.252,-13.589,0.0301,0.0,0.101
+John Waite,No Brakes,Missing You,1Qrdlkgg9I4J7r3P4kZNwr,0.552,0.552,-9.736,0.0364,0.0,0.046
+The Dave Clark Five,The Dave Clark Five Return! (2019 - Remaster),I Miss You - 2019 - Remaster,2oPB3zpshV1JVtMoT5EOBq,0.479,0.67,-8.073,0.0289,3.51e-06,0.262
+Klymaxx,Meeting In The Ladies Room,I Miss You,3d6UefBBvhqHxJLZdm8scF,0.553,0.345,-18.267,0.0342,0.0,0.252
+Foreigner,Agent Provocateur,I Want to Know What Love Is - 1999 Remaster,1JLn8RhQzHz3qDqsChcmBl,0.477,0.471,-10.036,0.0277,1.76e-06,0.131
+The Dave Clark Five,I Like It Like That (2019 - Remaster),I'll Be Yours My Love - 2019 - Remaster,1tSACb4y5pNWZKIHFpT1fx,0.386,0.524,-7.691,0.0255,1.03e-06,0.286
+The Dave Clark Five,Weekend in London (2019 - Remaster),'Til the Right One Comes Along - 2019 - Remaster,3CxRW8LTD7hVnM0OmZ2hVg,0.679,0.327,-10.057,0.071,0.0,0.141
+James Taylor,Gorilla (2019 Remaster),Wandering - 2019 Remaster,6tdfq7Dpicx0kyDuvOfiVV,0.342,0.117,-16.27,0.0355,9.15e-06,0.125
+The Cranberries,To The Faithful Departed (The Complete Sessions 1996-1997),I'm Still Remembering,41kTLbdWyiyROsMVPgaZfs,0.458,0.632,-6.924,0.0288,0.0,0.0845
+Junior,Solo,Si No Te Amase,07eWCsHSvJJdoniBnzeKy0,0.621,0.264,-12.097,0.0268,0.000155,0.119
+The Cranberries,To The Faithful Departed,Joe,7ol1ASKne63N10YvJymAjy,0.362,0.526,-8.099,0.0289,3.6e-05,0.207
+Jo Boxers,Like Gangbusters,Just Got Lucky,2f95gIKDeiDyk25KFkiL4m,0.644,0.904,-9.198,0.0582,2.77e-06,0.297
+Carpenters,Carpenters,Rainy Days And Mondays,5cbZDpFu1hTwaU7hDQpf13,0.351,0.235,-11.513,0.0323,0.0,0.0688
+Kim Carnes,Mistaken Identity,Bette Davis Eyes,0odIT9B9BvOCnXfS0e4lB5,0.675,0.649,-10.271,0.0319,0.0,0.0959
+Fleetwood Mac,Tango In the Night (Deluxe Edition),Little Lies - 2017 Remaster,4CoSCPlKNrWli7E5kFtbcl,0.64,0.649,-10.345,0.0264,8.3e-05,0.0551
+Eagles,Hell Freezes Over (Remaster 2018),Love Will Keep Us Alive,7bJSiwLFnhoO7g83bWkCtA,0.658,0.374,-11.684,0.026,1.28e-05,0.112
+Bee Gees,Tales From The Brothers Gibb,Melody Fair,099oIEPgz2B1HWdcja6GXw,0.436,0.336,-12.649,0.0238,0.0,0.106
+George Harrison,All Things Must Pass (Remastered 2014),My Sweet Lord - Remastered 2014,0qdQUeKVyevrbKhAo0ibxS,0.537,0.701,-8.913,0.0335,0.0,0.0832
+The Chordettes,The Chordettes' Best,Lollipop,1hFB1obL3dCyIDigkojSTm,0.65,0.593,-6.374,0.122,0.00244,0.441
+Michael Jackson,"Forever, Michael",One Day In Your Life,7vtaQNW7QHtQsLeshQlm3D,0.294,0.483,-11.674,0.031,0.0185,0.128
+Ricky Nelson,Legacy,Hello Mary Lou,0YOasUp8fxPk3FXEa3fZ9z,0.588,0.601,-11.031,0.0291,1.01e-06,0.08
+Ricky Nelson,The Legendary Masters Series (Volume 1),Poor Little Fool,1ugZWl7RmEq95dea9hqorZ,0.522,0.227,-16.426,0.0318,9.45e-05,0.238
+Ricky Nelson,Rick Is 21,Travelin' Man - Remastered,1sM0yZDxUhPQhkDh2CLd6l,0.723,0.44,-10.536,0.0319,0.0,0.128
+Ringo Starr,Ringo,You're Sixteen (You’re Beautiful And You’re Mine),4MAxWahEbzU8m4bD6mSZg9,0.665,0.629,-12.852,0.0441,1.84e-05,0.0637
+George McCrae,George McCrae - Disco Pioneer,Rock Your Baby,16KwF7IrKHTVTitUKH58g3,0.594,0.906,-5.536,0.0594,0.00122,0.0778
+Kenny Rogers,The Gambler,She Believes In Me,5ggOAMsJCAYDHnyoqJ0xAD,0.32,0.413,-12.472,0.0314,4.97e-06,0.346
+Sade,The Ultimate Collection,Smooth Operator - 2011 Remastered,28XDE6yXI6Bp4U3nLSGqzp,0.688,0.684,-5.181,0.032,0.000832,0.0441
+The Dave Clark Five,Glad All Over (2019 - Remaster),Crying Over You - 2019 - Remaster,5i76LSK7FW3nm6OBbOajQw,0.501,0.36,-11.314,0.0271,0.0,0.0741
+The Cranberries,To The Faithful Departed,When You're Gone,3EXrtClWmgsM7dw75Mw2M1,0.454,0.524,-7.128,0.0267,4.32e-05,0.0691
+The Dave Clark Five,American Tour (2019 - Remaster),Whenever You're Around - 2019 - Remaster,2KupmrXvERFNqwaJjw2rIH,0.565,0.493,-11.992,0.0348,1.27e-05,0.151
+Various Artists,Lost Hits Of The 70's,Wildflower,40Nh3Pv0Kl1BLK9h95iG2L,0.458,0.334,-13.431,0.0299,0.00474,0.126
+The Cranberries,To The Faithful Departed,Will You Remember?,6wNfuiwKeZXyFhFcWFuhQr,0.499,0.402,-12.053,0.0325,0.0824,0.168

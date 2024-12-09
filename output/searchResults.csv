@@ -1,0 +1,14 @@
+artist,album,track_name,track_id,danceability,energy,loudness,speechiness,instrumentalness,liveness
+Taylor Swift,Midnights,Lavender Haze,5jQI2r1RdgtuT8S3iG8zFC,0.733,0.436,-10.489,0.08,0.000573,0.157
+Taylor Swift,Midnights,Maroon,3eX0NZfLtGzoLUxPNvRfqm,0.637,0.398,-8.294,0.0564,1.03e-06,0.101
+Taylor Swift,Midnights,Anti-Hero,0V3wPSX9ygBnCm8psDIegu,0.637,0.643,-6.571,0.0519,1.8e-06,0.142
+Taylor Swift,Midnights,Snow On The Beach (feat. Lana Del Rey),1wtOxkiel43cVs0Yux5Q4h,0.663,0.319,-13.481,0.0375,0.000993,0.117
+Taylor Swift,Midnights,"You're On Your Own, Kid",4D7BCuvgdJlYvlX5WlN54t,0.696,0.396,-10.289,0.0656,5.2e-06,0.125
+Taylor Swift,Midnights,Midnight Rain,3rWDp9tBPQR9z6U5YyRSK4,0.643,0.363,-11.738,0.0767,5.17e-05,0.115
+Taylor Swift,Midnights,Question...?,0heeNYlwOGuUSe7TgUD27B,0.751,0.502,-8.763,0.167,0.0,0.296
+Taylor Swift,Midnights,Vigilante Shit,1xwAWUI6Dj0WGC3KiUPN0O,0.798,0.277,-11.096,0.39,5.25e-05,0.121
+Taylor Swift,Midnights,Bejeweled,3qoftcUZaUOncvIYjFSPdE,0.696,0.559,-9.19,0.0693,5.58e-05,0.0887
+Taylor Swift,Midnights,Labyrinth,0A1JLUlkZkp2EFrosoNQi0,0.406,0.306,-15.48,0.0517,0.488,0.122
+Taylor Swift,Midnights,Karma,7KokYm8cMIXCsGVmUvKtqf,0.642,0.62,-7.091,0.0666,0.0,0.483
+Taylor Swift,Midnights,Sweet Nothing,0wavGRldH0AWyu2zvTz8zb,0.337,0.156,-14.919,0.0518,7.72e-05,0.115
+Taylor Swift,Midnights,Mastermind,7FmYn9e7KHMXcxqGSj9LjH,0.662,0.357,-14.064,0.154,0.00129,0.0837

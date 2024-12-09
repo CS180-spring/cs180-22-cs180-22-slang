@@ -1,0 +1,29 @@
+,artist,album,track_name,track_id,danceability,energy,loudness,speechiness,instrumentalness,liveness
+4,Taylor Swift,Lover,Lover,1dGr1c8CrMLDpV6mPbImSI,0.359,0.543,-7.582,0.0919,1.58e-05,0.118
+5,Taylor Swift,Lover,The Archer,3pHkh7d0lzM2AldUtz2x37,0.292,0.574,-9.375,0.0401,0.00569,0.0663
+9,Taylor Swift,evermore,‘tis the damn season,7dW84mWkdWE5a6lFWxJCBG,0.575,0.434,-8.193,0.0312,6.59e-05,0.105
+10,Taylor Swift,evermore,willow,0lx2cLdOt3piJbcaXIV74f,0.392,0.574,-9.195,0.17,0.00179,0.145
+11,Taylor Swift,evermore,marjorie,12ntTeqEeTg7GAVpe8Mhpl,0.535,0.561,-11.609,0.0484,0.000136,0.115
+12,Taylor Swift,evermore,champagne problems,0sY6ZUTh4yoctD8VIXz339,0.462,0.24,-12.077,0.0377,0.0,0.113
+13,Taylor Swift,evermore,tolerate it,0PurA4JVJ8YQgSVopY8fn6,0.316,0.361,-10.381,0.0488,2.67e-05,0.0797
+15,Taylor Swift,reputation,Delicate,6NFyWDv5CjfwuzoCkw47Xf,0.75,0.404,-10.178,0.0682,0.000357,0.0911
+22,Taylor Swift,Red (Taylor's Version),All Too Well (10 Minute Version) (Taylor's Version) (From The Vault),5enxwA8aAbwZbf5qCHORXi,0.631,0.518,-8.771,0.0303,0.0,0.088
+24,Taylor Swift,folklore,betty,5kI4eCXXzyuIUXjQra0Cxi,0.593,0.377,-8.761,0.0253,0.0,0.0976
+26,Taylor Swift,folklore,august,3hUxzQpSfdDqwM3ZTFQY0K,0.532,0.623,-9.208,0.0331,7.28e-05,0.0925
+27,Taylor Swift,folklore,illicit affairs,2NmsngXHeC1GQ9wWrzhOMf,0.559,0.31,-10.445,0.0338,0.0,0.106
+28,Taylor Swift,folklore,my tears ricochet,1MgV7FIyNxIG7WzMRJV5HC,0.456,0.263,-10.63,0.0332,0.0,0.0749
+35,Taylor Swift,folklore,mirrorball,0ZNU020wNYvgW84iljPkPP,0.553,0.413,-10.037,0.0334,2.33e-06,0.0594
+37,Taylor Swift,Midnights (3am Edition),Lavender Haze,4g2c7NoTWAOSYDy44l9nub,0.735,0.444,-10.519,0.0684,0.0012,0.17
+39,Taylor Swift,Midnights (3am Edition),Midnight Rain,6Nl7KyvjkFncGsjB49SxLl,0.636,0.377,-11.721,0.0708,6.51e-05,0.115
+40,Taylor Swift,Midnights (3am Edition),Vigilante Shit,5yeuXkukVGuix3vmLu2BPJ,0.87,0.279,-11.134,0.364,1.74e-05,0.121
+42,Taylor Swift,Midnights (3am Edition),Mastermind,56hioFjQ0DXrdn04hZcFgG,0.661,0.352,-14.077,0.117,0.00147,0.0884
+45,Phoebe Bridgers,Stranger in the Alps,Motion Sickness,5xo8RrjJ9CVNrtRg2S3B1R,0.651,0.546,-9.021,0.0357,0.0437,0.0842
+48,girl in red,we fell in love in october / October Passed Me By,we fell in love in october,6IPwKM3fUUzlElbvKw2sKl,0.566,0.366,-12.808,0.028,0.181,0.155
+53,Olivia Rodrigo,SOUR,traitor,5CZ40GBx1sQ9agT82CLQCT,0.38,0.339,-7.885,0.0338,0.0,0.12
+54,Olivia Rodrigo,SOUR,drivers license,5wANPM4fQCJwkGd4rN57mH,0.561,0.431,-8.81,0.0578,1.42e-05,0.106
+55,Olivia Rodrigo,SOUR,"1 step forward, 3 steps back",4wcBRRpIfesgcyUtis7PEg,0.473,0.203,-12.627,0.102,0.0,0.126
+58,Olivia Rodrigo,SOUR,enough for you,2TOzTqQXNmR2zDJXihjZ2e,0.638,0.259,-10.706,0.0898,0.0,0.219
+59,Olivia Rodrigo,SOUR,happier,2tGvwE8GcFKwNdAXMnlbfl,0.395,0.443,-9.72,0.133,9.67e-06,0.0839
+61,Olivia Rodrigo,SOUR,favorite crime,5JCoSi02qi3jJeHdZXMmR8,0.369,0.272,-10.497,0.0364,0.0,0.147
+62,Olivia Rodrigo,"All I Want (From ""High School Musical: The Musical: The Series"")","All I Want - From ""High School Musical: The Musical: The Series""",4Yxc55NX3tAXC2mHRAhtcW,0.376,0.43,-6.585,0.0328,0.0,0.0912
+63,Olivia Rodrigo,SOUR,hope ur ok,1zejeOnykpCoyVSit6Bwp3,0.443,0.298,-12.181,0.0644,1e-05,0.103

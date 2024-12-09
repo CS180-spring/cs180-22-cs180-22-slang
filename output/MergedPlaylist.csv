@@ -1,0 +1,32 @@
+artist,album,track_name,track_id,danceability,energy,loudness,speechiness,instrumentalness,liveness
+Ariana Grande,imagine,imagine,0todbbT9g5uQGbeFCiBf2F,0.714,0.474,-4.993,0.039,0.0,0.106
+Ariana Grande,"thank u, next","thank u, next",2rPE9A1vEgShuZxxzR2tZH,0.724,0.647,-5.642,0.0658,0.0,0.102
+Ariana Grande,boyfriend,boyfriend (with Social House),0Ryd8975WihbObpp5cPW1t,0.4,0.795,-3.731,0.461,0.0,0.159
+Ariana Grande,"thank u, next",make up,27356GVuMPFWiJSZCragoM,0.671,0.714,-5.373,0.21,1.48e-06,0.0568
+Ariana Grande,Sweetener,breathin,4OafepJy2teCjYJbvFE60J,0.568,0.656,-5.413,0.0433,1.37e-05,0.213
+Ariana Grande,Sweetener,no tears left to cry,2qT1uLXPVPzGgFOx4jtEuo,0.699,0.713,-5.507,0.0594,3.11e-06,0.294
+Ariana Grande,"thank u, next","break up with your girlfriend, i'm bored",4kV4N9D1iKVxx1KLvtTpjS,0.726,0.554,-5.29,0.0917,0.0,0.106
+Lizzo,Good as Hell (feat. Ariana Grande) [Remix],Good as Hell (feat. Ariana Grande) - Remix,07Oz5StQ7GRoygNLaXs2pd,0.668,0.892,-3.001,0.0645,0.0,0.735
+Ariana Grande,Dangerous Woman,Greedy,2tpIAmAq9orm1Owh5pja1w,0.619,0.705,-5.335,0.099,0.0,0.0919
+Ariana Grande,Yours Truly,Honeymoon Avenue,2ofOe2OaXFpZF5ETbsc7Qu,0.692,0.608,-5.233,0.041,0.0,0.348
+Ariana Grande,Positions,pov,3UoULw70kMsiVXxW0L3A33,0.487,0.534,-5.664,0.0555,0.0,0.1
+Ariana Grande,Positions,obvious,0q85C1JiECyYIQthz1posA,0.624,0.672,-5.334,0.106,0.0,0.155
+Ariana Grande,Positions,love language,6NYtLvyThMT0oALFdJFdzq,0.688,0.573,-5.03,0.208,0.0,0.0749
+Ariana Grande,Positions,shut up,3ko9jEHNt4O5fjKN65ULJp,0.499,0.462,-5.308,0.0312,0.0,0.0946
+Ariana Grande,positions,positions,7igeByaBM0MgGsgXtNxDJ7,0.736,0.802,-4.759,0.0864,0.0,0.094
+Ariana Grande,Positions,motive (with Doja Cat),5GkQIP5mWPi4KZLLXeuFTT,0.789,0.742,-5.664,0.0652,0.0,0.166
+Harry Styles,Fine Line,Golden,45S5WTQEGOB1VHr1Q4FuPl,0.448,0.838,-5.257,0.0557,0.000131,0.131
+Harry Styles,Fine Line,Watermelon Sugar,6UelLqGlWMcVH1E5c4H7lY,0.548,0.816,-4.209,0.0465,0.0,0.335
+Harry Styles,Fine Line,Adore You,3jjujdWJ72nww5eGnfs2E7,0.676,0.771,-3.675,0.0483,7e-06,0.102
+Harry Styles,Fine Line,She,6SQLk9HSNketfgs2AyIiMs,0.535,0.521,-5.942,0.0272,0.371,0.19
+Harry Styles,Harry Styles,Sign of the Times,5Ohxk2dO5COHF1krpoPigN,0.516,0.595,-4.63,0.0313,0.0,0.109
+Harry Styles,Harry Styles,Kiwi,33SNO8AaciGbNaQFkxvPrW,0.375,0.93,-2.631,0.0561,0.0,0.318
+Harry Styles,Sign of the Times,Sign of the Times,5ELRkzdzz0HvGpMDlfZHkV,0.518,0.575,-4.616,0.0302,0.0,0.109
+Harry Styles,Watermelon Sugar,Watermelon Sugar,1e9oZCCiX42nJl0AcqriVo,0.548,0.816,-4.209,0.0465,0.0,0.335
+Harry Styles,Fine Line,Treat People With Kindness,03mMSLEJCPoGJwQhHpN5y0,0.653,0.869,-3.725,0.0382,2.2e-05,0.046
+Harry Styles,As It Was,As It Was,4LRPiXqCikLlN15c3yImP7,0.52,0.731,-5.338,0.0557,0.00101,0.311
+Harry Styles,Harry's House,Music For a Sushi Restaurant,5LYMamLv12UPbemOaTPyeV,0.72,0.715,-4.652,0.04,0.0568,0.107
+Harry Styles,Harry's House,Late Night Talking,1qEmFfgcLObUfQm0j1W2CK,0.714,0.728,-4.595,0.0468,0.0,0.106
+Harry Styles,Harry's House,Grapejuice,4j6kId9QIqhoXvqHKgSKa0,0.645,0.721,-4.394,0.0336,0.143,0.204
+Harry Styles,Harry's House,As It Was,4Dvkj6JhhA12EX05fT7y2e,0.52,0.731,-5.338,0.0557,0.00101,0.311
+Harry Styles,Harry's House,Daydreaming,69w5X6uTrOaWM32IetSzvO,0.707,0.811,-5.298,0.0304,0.0152,0.131

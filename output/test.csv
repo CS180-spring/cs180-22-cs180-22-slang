@@ -1,0 +1,4 @@
+artist,album,track_name,track_id,danceability,energy,loudness,speechiness,instrumentalness,liveness
+Doja Cat,Planet Her,Woman,6Uj1ctrBOjOas8xZXGqKk4,0.824,0.764,-4.175,0.0854,0.00294,0.117
+Doja Cat,Planet Her,Need to Know,3Vi5XqYrmQgOYBajMWSvCi,0.664,0.609,-6.509,0.0707,0.0,0.0926
+Doja Cat,Vegas (From the Original Motion Picture Soundtrack ELVIS),Vegas (From the Original Motion Picture Soundtrack ELVIS),0hquQWY3xvYqN4qtiquniF,0.801,0.601,-7.574,0.255,3.23e-05,0.145

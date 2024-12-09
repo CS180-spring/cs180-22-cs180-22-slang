@@ -1,0 +1,8 @@
+artist,album,track_name,track_id,danceability,energy,loudness,speechiness,instrumentalness,liveness
+Harry Styles,As It Was,As It Was,4LRPiXqCikLlN15c3yImP7,0.52,0.731,-5.338,0.0557,0.00101,0.311
+Doja Cat,Planet Her,Woman,6Uj1ctrBOjOas8xZXGqKk4,0.824,0.764,-4.175,0.0854,0.00294,0.117
+Lin-Manuel Miranda,Encanto (Original Motion Picture Soundtrack),Surface Pressure,760jhRscwGbIIe1m1IIQpU,0.65,0.584,-8.286,0.307,1.54e-06,0.042
+Doja Cat,Planet Her,Need to Know,3Vi5XqYrmQgOYBajMWSvCi,0.664,0.609,-6.509,0.0707,0.0,0.0926
+Doja Cat,Planet Her,You Right,0k4d5YPDr1r7FX77VdqWez,0.828,0.621,-6.414,0.0565,0.00233,0.0845
+Doja Cat,Kiss Me More (feat. SZA),Kiss Me More (feat. SZA),748mdHapucXQri7IAO8yFK,0.762,0.701,-3.541,0.0286,0.000158,0.123
+Doja Cat,Planet Her,Get Into It (Yuh),0W6I02J9xcqK8MtSeosEXb,0.912,0.655,-6.029,0.162,3.39e-05,0.0894
